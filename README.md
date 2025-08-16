@@ -15,8 +15,7 @@ This repository contains the official implementation of our paper:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/41326b2d-78eb-472a-bd43-80447322ebe0" alt="MDFP Network Architecture" width="85%">
-</p>
-<p align="center"><em>Figure: The overall architecture of the proposed method.</em></p>
+
 
 ---
 
